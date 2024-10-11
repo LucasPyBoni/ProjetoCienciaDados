@@ -1,6 +1,7 @@
 ## Resumo do projeto
 
 No Solução Airbnb tem o projeto e todas explicações de tudo, mas resumidamente o pandas lê a tabela, todas os tratamentos como retirar colunas inúteis, análise de colunas que podem atrapalhar, exclusão de outliers e as informações são transformadas em número 1 pra True, e 0 False para que a IA possa realizar seus cálculos. 
+
 A IA escolhida foi a ExtraTrees devido ao baixo Erro Quadrático e o alto R², após seu treinamento e teste de previsão ela foi salvada por meio do Joblib para o deploy.
 
 ## Deploy do projeto
